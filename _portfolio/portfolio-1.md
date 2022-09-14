@@ -4,4 +4,4 @@ excerpt: "A web application to schedule events<br/><img src='/images/eventable.p
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a time management web application that helps with multi-party scheduling. Users can create events with details and invite friends to the events. Users can post available time slots and figure out the best meeting time. 
