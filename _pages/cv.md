@@ -42,4 +42,8 @@ Experience
 * Analyze and visualize the retention rate of players throughout the game using R
 * Make a regression model on the interaction speed of players and visualize it using R
 
+**Holocaust Lab** UCLA  
+* Documenting the location names mentioned in testimonies to create geographic diaries
+* Learning semantic triplets from previous lab work
+
 
