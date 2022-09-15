@@ -1,9 +1,7 @@
 ---
 title: "Data Analysis of Elm City Stories"
 excerpt: "Characterize the patterns of play within the game, Elm City Stories“ <br/>
-<img src='/images/datafest.png'
-     width="300"
-     height="500">
+<img src='/images/datafest.png'>
 collection: portfolio
 ---
 
