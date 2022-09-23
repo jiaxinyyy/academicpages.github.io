@@ -44,6 +44,6 @@ Experience
 
 **Holocaust Lab**, UCLA  
 * Documenting the location names mentioned in testimonies to create geographic diaries
-* Learning semantic triplets from previous lab work
+* Applying semantic triplets from previous lab work
 
 
