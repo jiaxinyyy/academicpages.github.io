@@ -18,6 +18,8 @@ redirect_from:
     - STATS 102B: Introduction to Computation and Optimization for Statistics  
     - STATS 102C: Introduction to Monte Carlo Methods  
     - STATS 140XP/141XP: Practice of Statistical Consulting  
+    - STATS 143: Introduction to Research in Statistics
+    - STATS C161: Introduction to Pattern Recognition and Machine Learning
 
 - [Computer Science](https://registrar.ucla.edu/academics/course-descriptions?search=COM%20SCI)  
     - COM SCI 31, 32: C++ Programming  
